@@ -24,6 +24,7 @@
        if its is larger than loser ,so our Second Min is found ,else apply same approach.
   - No of comparisions required : (N + log <sub> 2 </sub> N – 2)
   - Time Complexity : (N + log <sub> 2 </sub> N)
+  - Code implemented in C++.
  
  ### Sample Input 
   #### Input = {55, 7, 100,11 ,99, 15, 17} (Also taken in code)
@@ -34,7 +35,7 @@
   <img height=400px  src="./sampletree.png" >
   </p>
   
-  #### Output = Best Player: 7, Second Best Player: 11
+  #### Output = Best Player: 7, Second Best Player: 11 :heavy_check_mark:
   
   
    ## How to Use
